@@ -1,7 +1,7 @@
 <template>
 <div id="border">
   <div id="app">
-    <img alt="pic" src="https://stackblitz.com/storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1FYQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7e1664e86538c0229c78dd396a553be11a3a23a3/24955525_1996255580657615_7347369665562323013_o.jpg" style="width:250px;height:250px;">
+    <img alt="pic" src="https://stackblitz.com/files/vue-yuv9r9/github/jzicc/2091-VUEJS-CLI-NPM-JZC/main/src/assets/24955525_1996255580657615_7347369665562323013_o.jpg" style="width:250px;height:250px;">
     <Profile msg="Personal Information"/>
     <Education msg="Education"/>
     <Skills msg="Skills">
